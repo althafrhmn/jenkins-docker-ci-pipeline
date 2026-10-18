@@ -1,0 +1,16 @@
+# Logs
+*.log
+logs/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
