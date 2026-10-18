@@ -42,4 +42,3 @@ jenkins-docker-ci-pipeline/
     └── jenkins working.png
 ```
 
-The screenshot is intended to document a successful run. Review the image and confirm it accurately represents your real environment before adding it as portfolio evidence.
